@@ -1,4 +1,4 @@
-# MCreator generator for Minecraft Forge 1.12.2 mods
+# MCreator generator for Minecraft Forge 1.12.2 mods (w Fixed uploading assets to github and updated forge version)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/MCreator/Generator-Forge-1.12.2/blob/master/LICENSE)
 
 ## For MCreator 2021.1

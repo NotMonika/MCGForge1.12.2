@@ -205,3 +205,4 @@ idea {
 tasks.named("processIdeaSettings").configure {
     dependsOn("injectTags")
 }
+apply from:"mcreator.gradle"

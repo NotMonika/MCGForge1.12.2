@@ -9,7 +9,7 @@ start_id_map:
   dimension: 2
 
 gradle:
-  setup_task: eclipse
+  setup_task: setupDecompWorkspace
   run_client: runClient
   run_server: runServer
   export_file: "build/libs/modid-1.0.jar"
